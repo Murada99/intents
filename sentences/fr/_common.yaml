@@ -26,7 +26,7 @@ lists:
         out: "blue"
       - in: "(violet | violette)"
         out: "purple"
-      - in: "marron"
+      - in: "brun"
         out: "brown"
       - in: "rose"
         out: "pink"
