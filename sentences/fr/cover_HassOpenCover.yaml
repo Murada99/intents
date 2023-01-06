@@ -15,4 +15,8 @@ intents:
           device_class:
             - "blind"
             - "curtain"
+       - sentences:
+          - "ouvre [les] volets <dans> <area>"
+        slots:
+          device_class:
             - "shutter"
